@@ -1,0 +1,27 @@
+
+/add_user: Allows you to add a new use remove
+
+/select_user: allows you to select a user
+
+/remove_user: removes a user 
+
+/select_file: Allows you to select a created file. After the file has been chosen, whenever you want to access the 
+commands again or go back to the homepage, type /select_user
+
+/remove_file: removes a specified file. After removed a specified file, and launched a new file, if you want to 
+go back to the homepage or access the commands once again, type /select_user
+
+/home: Gets you back to the homepage
+
+/add: Creates a new file. 
+
+/Choose_File: Allows you to traverse files. Can only be used when /add is called. After /Choose_File is called 
+you have selected a file, whenever you want to go back to the homepage or access the rest of the functions, 
+type /select_user again. 
+
+/remove_file: Allows you to remove a file 
+
+/save_file: Allows you to save your written work on the file. 
+
+
+
