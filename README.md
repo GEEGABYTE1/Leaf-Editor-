@@ -13,6 +13,7 @@ You can create and edit text files right from your terminal with ease!
 - /select_file: Allows a user to choose a certain file already made. 
 - /save_file: Saves the new updates to the file 
 - /Choose_File: Allows a user to choose a certain file already made. 
+- /remove_file: Allows a user to remove a certain file.
 
 
 # Extras 
@@ -21,4 +22,8 @@ Some commands must have other commands ran before.
 
 Commands involving files will work only if there is a logged in user. 
 
-Some commands may not support other commands. For example, 
+Some commands may not support other commands. For example, /remove_file does not support the /add file.
+
+You can import other .txt files into the database. In order to do that, the files must be in the same directory as the program file. 
+
+Made in Python 🐍
