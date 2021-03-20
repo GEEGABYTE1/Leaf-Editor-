@@ -3,7 +3,7 @@ User Friendly Word Editor for your terminal 🍃
 
 You can create and edit text files right from your terminal with ease!
 
-#Controls 
+# Controls 
 
 - /add_user: Adds a new user to the word editor database 
 - /remove_user: Removes a user from the word editor 
@@ -12,4 +12,11 @@ You can create and edit text files right from your terminal with ease!
 - /add: Add a new file 
 - /select_file: Allows a user to choose a certain file already made. 
 - /save_file: Saves the new updates to the file 
+- /Choose_File: Allows a user to choose a certain file already made. 
 
+
+# Extras 
+
+Some commands must have other commands ran before. 
+
+For example, commands involving files will work only if there is a logged in user. 
