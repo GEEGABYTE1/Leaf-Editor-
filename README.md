@@ -19,4 +19,6 @@ You can create and edit text files right from your terminal with ease!
 
 Some commands must have other commands ran before. 
 
-For example, commands involving files will work only if there is a logged in user. 
+Commands involving files will work only if there is a logged in user. 
+
+Some commands may not support other commands. For example, 
