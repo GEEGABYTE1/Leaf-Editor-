@@ -1,3 +1,4 @@
+![Leaf](https://user-images.githubusercontent.com/68164588/113779091-2bc1a200-96fb-11eb-89d4-487da030329b.png)
 # Leaf Editor 
 User Friendly Word Editor for your terminal 🍃 
 
